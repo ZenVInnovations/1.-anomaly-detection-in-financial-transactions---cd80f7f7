@@ -147,4 +147,5 @@ if df is not None:
 
                 📊 You can try different features or upload another dataset to explore further insights.
                 """)
+                st.success("""Internship Project""")
 
