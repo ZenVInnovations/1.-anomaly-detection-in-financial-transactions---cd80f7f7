@@ -146,6 +146,9 @@ if df is not None:
                 - Displayed visual reports and detailed tables for better understanding.
 
                 📊 You can try different features or upload another dataset to explore further insights.
+
+                📥 Download the anomaly report for further analysis or share with your team.
+                💡 Tip: Experiment with different models and features to improve detection accuracy.
                 """)
                 st.success("""Internship Project""")
 
